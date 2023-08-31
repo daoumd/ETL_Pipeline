@@ -1,4 +1,3 @@
-FlightRadar24 ETL Pipeline
 Le présent projet implémente un pipeline ETL pour traiter les données de l'API FlightRadar24, qui répertorie l'ensemble des vols aériens, aéroports, et compagnies aériennes mondiales.
 
 Structure du Projet
