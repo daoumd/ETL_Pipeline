@@ -25,3 +25,6 @@ Stockage final des données traitées, offrant rapidité, évolutivité et fiabi
 
 #### ELK Stack:
 Centralise et visualise les journaux pour le monitoring en temps réel, garantissant une réponse rapide aux problèmes.
+
+
+![Schema drawio](https://github.com/daoumd/ETL_Pipeline/assets/140932918/94001942-06ab-4528-9df0-54aff9492def)
